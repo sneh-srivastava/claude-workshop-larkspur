@@ -1,8 +1,8 @@
 # ACCOUNT.md
 
-Account:
-Workflow:
-Date:
+Account: Eurostar
+Workflow: Cancellation and delay care in the Eurostar app's chat. The passenger starts it with a booking reference when their train is cancelled or delayed.
+Date: 30/09/2026
 
 Three lines, and nobody can write them for you.
 
