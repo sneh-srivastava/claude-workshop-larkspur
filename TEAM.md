@@ -1,4 +1,4 @@
-# Pod: <your pod name>
+# Pod: 6
 
 Whoever made the repo types the pod name above and one name per line below,
 then commits it once. Nobody else has to touch this file.
@@ -6,6 +6,9 @@ then commits it once. Nobody else has to touch this file.
 The review reads these names. Nothing else comes off the list. Your pod still
 decides in the moment who does what.
 
-- <Name>
-- <Name>
-- <Name>
+- sneh-srivastava
+- d.suvodeep.cse@gmail.com
+- ankitgupta1deloitte
+- yog-official
+- abadganchi@deloitte.com
+- niteshkagit
